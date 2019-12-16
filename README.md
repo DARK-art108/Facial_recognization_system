@@ -14,7 +14,7 @@ Then check by writing after opening conda in pycharm.
 
 ----##import numpy----
 
-3.install opencv and choose the harcascade_frontal_face.xml file 
+3.install opencv and choose the harcascade_frontal_face.xml file to train the model.....
 
 
 4.-------<creating  a datasets of images and training the model>--------|
